@@ -1,7 +1,7 @@
 
-  # Responsive Homepage Design
+  # Portfolio
 
-  This is a code bundle for Responsive Homepage Design. The original project is available at https://www.figma.com/design/3woUzCp0KzN9TGOxP3tJTJ/Responsive-Homepage-Design.
+  This is a code bundle for Portfolio. The original project is available at https://www.figma.com/design/3woUzCp0KzN9TGOxP3tJTJ/Responsive-Homepage-Design.
 
   ## Running the code
 
