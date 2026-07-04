@@ -6,7 +6,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 ---
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://your-vercel-link.vercel.app)
+[Click here to view the live site](https://tanishka-portfolio-ruddy.vercel.app/)
 
 ---
 
